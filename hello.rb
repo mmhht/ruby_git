@@ -18,4 +18,5 @@ while bottles > 0
   end
   puts ''
 end
-  
+
+puts ''  
